@@ -1,6 +1,0 @@
-print ("ahoj ako sa volas")
-meno = input()
-print ("super teší ma" + meno)
-print ("Kolko mas rokov?")
-roky = input()
-print ("super o rok budeš mat" + str(int(roky) + 1))
